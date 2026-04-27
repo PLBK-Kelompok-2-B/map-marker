@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Mujib",
+    "lat": 4.4539,
+    "lng": 97.9675,
+    "color": "#38bdf8",
+    "note": "Lokasi Mujib"
+  },
+  {
+    "name": "Hafiz",
+    "lat": 4.4600,
+    "lng": 97.9800,
+    "color": "#a78bfa",
+    "note": "Lokasi Hafiz"
+  },
+  {
+    "name": "Firman",
+    "lat": 4.4480,
+    "lng": 97.9750,
+    "color": "#34d399",
+    "note": "Lokasi Firman"
+  },
+  {
+    "name": "Mujib",
+    "lat": 5.5536,
+    "lng": 95.3170,
+    "color": "#38bdf8",
+    "note": "Masjid Raya Baitulrahman"
+  }
+]
